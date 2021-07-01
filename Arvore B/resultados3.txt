@@ -1,0 +1,35 @@
+ordem 2
+Arvore 1 aleatoria de 10000. Comparações: 8. Tempo: 25039
+Arvore 2 aleatoria de 20000. Comparações: 9. Tempo: 17525
+Arvore 3 aleatoria de 30000. Comparações: 9. Tempo: 22723
+Arvore 4 aleatoria de 40000. Comparações: 10. Tempo: 16055
+Arvore 5 aleatoria de 50000. Comparações: 10. Tempo: 15765
+Arvore 6 aleatoria de 60000. Comparações: 10. Tempo: 14423
+Arvore 7 aleatoria de 70000. Comparações: 10. Tempo: 24438
+Arvore 8 aleatoria de 80000. Comparações: 10. Tempo: 21213
+Arvore 9 aleatoria de 90000. Comparações: 10. Tempo: 33872
+Arvore 10 aleatoria de 100000. Comparações: 10. Tempo: 34247
+
+ordem 4
+Arvore 1 aleatoria de 10000. Comparações: 6. Tempo: 105777
+Arvore 2 aleatoria de 10000. Comparações: 6. Tempo: 24937
+Arvore 3 aleatoria de 10000. Comparações: 6. Tempo: 90720
+Arvore 4 aleatoria de 10000. Comparações: 7. Tempo: 17562
+Arvore 5 aleatoria de 10000. Comparações: 7. Tempo: 22495
+Arvore 6 aleatoria de 10000. Comparações: 7. Tempo: 25426
+Arvore 7 aleatoria de 10000. Comparações: 7. Tempo: 30544
+Arvore 8 aleatoria de 10000. Comparações: 7. Tempo: 39345
+Arvore 9 aleatoria de 10000. Comparações: 7. Tempo: 40191
+Arvore 10 aleatoria de 10000. Comparações: 7. Tempo: 36559
+
+ordem 6
+Arvore 1 aleatoria de 10000. Comparações: 5. Tempo: 21407
+Arvore 2 aleatoria de 10000. Comparações: 5. Tempo: 82581
+Arvore 3 aleatoria de 10000. Comparações: 5. Tempo: 18402
+Arvore 4 aleatoria de 10000. Comparações: 6. Tempo: 26095
+Arvore 5 aleatoria de 10000. Comparações: 6. Tempo: 27362
+Arvore 6 aleatoria de 10000. Comparações: 6. Tempo: 24675
+Arvore 7 aleatoria de 10000. Comparações: 6. Tempo: 23438
+Arvore 8 aleatoria de 10000. Comparações: 6. Tempo: 61539
+Arvore 9 aleatoria de 10000. Comparações: 6. Tempo: 127799
+Arvore 10 aleatoria de 10000. Comparações: 6. Tempo: 45806
