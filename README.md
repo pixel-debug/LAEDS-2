@@ -6,9 +6,9 @@ Tabela de conteúdos
 =================
 <!--ts-->
    * [Árvores](#arvores)
-      * [Árvore Binária](#arvore-binária)
-      * [Árvore SBB](#arvore-sbb)
-      * [Árvore B](#arvore-b)
+      * [Árvore Binária](#árvore-binária)
+      * [Árvore SBB](#árvore-sbb)
+      * [Árvore B](#árvore-b)
       * [Heap](#heap)
 <!--te-->
 
