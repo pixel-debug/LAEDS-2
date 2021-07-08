@@ -29,3 +29,9 @@ Uma caracteristíca das árvores é a existência de um único caminho da raiz p
 
 Heap
 -----
+
+
+
+
+
+
