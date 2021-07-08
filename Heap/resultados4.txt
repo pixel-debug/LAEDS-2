@@ -1,0 +1,34 @@
+
+Arvore 1 aleatoria de 10000. Comparações: 121063
+Arvore 1 aleatoria de 20000. Comparações: 262639
+Arvore 1 aleatoria de 30000. Comparações: 410611
+Arvore 1 aleatoria de 40000. Comparações: 566283
+Arvore 1 aleatoria de 50000. Comparações: 725014
+Arvore 1 aleatoria de 60000. Comparações: 883718
+Arvore 1 aleatoria de 70000. Comparações: 1046528
+Arvore 1 aleatoria de 80000. Comparações: 1214696
+Arvore 1 aleatoria de 90000. Comparações: 1382677
+Arvore 1 aleatoria de 100000. Comparações: 1550680
+
+
+Arvore 1 aleatoria de 100000. Comparações: 1462884
+Arvore 1 aleatoria de 90000. Comparações: 1301013
+Arvore 1 aleatoria de 80000. Comparações: 1143722
+Arvore 1 aleatoria de 70000. Comparações: 986135
+Arvore 1 aleatoria de 60000. Comparações: 832347
+Arvore 1 aleatoria de 50000. Comparações: 679007
+Arvore 1 aleatoria de 40000. Comparações: 532174
+Arvore 1 aleatoria de 30000. Comparações: 385947
+Arvore 1 aleatoria de 20000. Comparações: 245490
+Arvore 1 aleatoria de 10000. Comparações: 113097
+
+Arvore 1 aleatoria de 10000. Comparações: 117676
+Arvore 1 aleatoria de 20000. Comparações: 255336
+Arvore 1 aleatoria de 30000. Comparações: 400357
+Arvore 1 aleatoria de 40000. Comparações: 550731
+Arvore 1 aleatoria de 50000. Comparações: 704847
+Arvore 1 aleatoria de 60000. Comparações: 860586
+Arvore 1 aleatoria de 70000. Comparações: 1019336
+Arvore 1 aleatoria de 80000. Comparações: 1181339
+Arvore 1 aleatoria de 90000. Comparações: 1345029
+Arvore 1 aleatoria de 100000. Comparações: 1509838
